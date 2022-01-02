@@ -17,13 +17,7 @@
 @media screen and (max-width: 768px) {
   .lead__title {
     padding: 0 24px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .lead__title {
-    padding: 0 16px;
-    font-size: 40px;
-    line-height: 44px;
+    font-size: calc(40px + (56 + 56 * 0.7) * ((100vw - 320px) / 1280));
+    line-height: calc(44px + (56 + 56 * 0.7) * ((100vw - 320px) / 1280));
   }
 }
