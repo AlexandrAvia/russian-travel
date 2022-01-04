@@ -4,3 +4,10 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 320px) {
+  .website {
+    margin: 0 16px;
+    align-self: start;
+  }
+}
