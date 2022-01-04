@@ -14,7 +14,7 @@
 
 **Figma**
 
-- [Ссылка на макет в Figma](https://alexandravia.github.io/russian-travel/)
+- [Ссылка на проект](https://alexandravia.github.io/russian-travel/)
 
 **Картинки**
 
