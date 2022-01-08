@@ -5,6 +5,15 @@
   margin: 0;
 }
 
+.header__lang-link_active {
+  text-decoration: underline;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+  transform: 0.3s;
+}
+
 .header__lang-link:first-child {
   padding-right: 18px;
 }
