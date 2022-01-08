@@ -12,14 +12,7 @@
 
 @media screen and (max-width: 600px) {
   .footer {
-    margin: 64px 118px 64px 16px;
-    flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .footer {
-    margin: 64px 118px 64px 16px;
+    margin: 64px 16px 24px;
     flex-direction: column;
   }
 }
